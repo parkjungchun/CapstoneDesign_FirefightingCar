@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity2">
+
+    <ImageButton
+        android:id="@+id/btnBluetoothOn"
+        android:src="@drawable/resize"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="30dp"
+        android:background="#00000000"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/btnBluetoothOff"
+        android:src="@drawable/resize_bluex"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginLeft="20dp"
+        android:background="#00000000"
+        app:layout_constraintStart_toEndOf="@+id/btnBluetoothOn"
+        app:layout_constraintTop_toTopOf="@+id/btnBluetoothOn" />
+
+
+    <TextView
+        android:id="@+id/tvBluetoothStatus"
+        android:layout_width="170dp"
+        android:layout_height="23dp"
+        android:layout_marginTop="18dp"
+        android:text="status"
+        app:layout_constraintStart_toStartOf="@+id/btnBluetoothOn"
+        app:layout_constraintTop_toBottomOf="@+id/btnBluetoothOn" />
+
+    <ImageView
+        android:id="@+id/firex"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginStart="38dp"
+        android:layout_marginTop="50dp"
+        android:src="@drawable/resize_fireo"
+        app:layout_constraintStart_toStartOf="@+id/tvBluetoothStatus"
+        app:layout_constraintTop_toBottomOf="@+id/tvBluetoothStatus" />
+
+
+    <TextView
+        android:id="@+id/tvtemp"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_marginTop="45dp"
+        android:layout_marginLeft="35dp"
+        android:text="현재온도"
+        app:layout_constraintStart_toStartOf="@+id/tvBluetoothStatus"
+        app:layout_constraintTop_toBottomOf="@+id/firex"
+        />
+    <TextView
+        android:id="@+id/tvgas"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_marginTop="45dp"
+        android:layout_marginLeft="195dp"
+        android:text="현재가스"
+        app:layout_constraintStart_toStartOf="@+id/tvtemp"
+        app:layout_constraintTop_toBottomOf="@+id/firex"
+        />
+
+    <TextView
+        android:id="@+id/tvtemp_set"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_marginTop="10dp"
+        android:hint=""
+        app:layout_constraintStart_toStartOf="@+id/tvtemp"
+        app:layout_constraintTop_toBottomOf="@+id/tvtemp"/>
+    <TextView
+        android:id="@+id/tvgas_set"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="190dp"
+        android:hint=""
+        app:layout_constraintStart_toStartOf="@+id/tvtemp"
+        app:layout_constraintTop_toBottomOf="@+id/tvtemp"
+        />
+
+
+    <Button
+        android:id="@+id/btnSendData"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="118dp"
+        android:layout_marginTop="40dp"
+        android:text="rc카 조종"
+        android:background="#00000000"
+        app:layout_constraintStart_toStartOf="@+id/tvBluetoothStatus"
+        app:layout_constraintTop_toBottomOf="@+id/tvgas_set" />
+
+    <ImageButton
+        android:id="@+id/btncall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="30dp"
+        android:background="#00000000"
+        android:src="@drawable/resize_call"
+        app:layout_constraintStart_toStartOf="@+id/tvtemp_set"
+        app:layout_constraintTop_toBottomOf="@+id/btnSendData" />
+    <TextView
+        android:id="@+id/tvcall"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_marginTop="5dp"
+        android:text="119전화"
+        app:layout_constraintStart_toStartOf="@+id/btncall"
+        app:layout_constraintTop_toBottomOf="@+id/btncall"
+        />
+
+
+
+</android.support.constraint.ConstraintLayout>

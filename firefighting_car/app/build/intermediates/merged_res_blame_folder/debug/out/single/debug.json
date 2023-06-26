@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\drawable_push.png.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\drawable\\push.png"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\drawable_resize_bluex.xml.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\drawable\\resize_bluex.xml"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\drawable_resize_right.xml.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\drawable\\resize_right.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-5:/drawable_push.png.flat",
+        "source": "com.example.myapplication.app-main-7:/drawable/push.png"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\drawable_resize_forward.xml.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\drawable\\resize_forward.xml"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\drawable_backk.png.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\drawable\\backk.png"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-5:/layout_activity_cctv.xml.flat",
+        "source": "com.example.myapplication.app-main-7:/layout/activity_cctv.xml"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\drawable_resize.xml.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\drawable\\resize.xml"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\drawable_resize_fireo.xml.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\drawable\\resize_fireo.xml"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\drawable_leftt.png.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\drawable\\leftt.png"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-pngs-0:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\drawable-v24_call.png.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\drawable-v24\\call.png"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\drawable_resize_firex.xml.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\drawable\\resize_firex.xml"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\drawable_rightt.png.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\drawable\\rightt.png"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\layout_activity_cctv.xml.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\layout\\activity_cctv.xml"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\drawable-v24_fireo.png.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\drawable-v24\\fireo.png"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\drawable_resize_back.xml.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\drawable\\resize_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\drawable-v24_firex.png.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\drawable-v24\\firex.png"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\drawable-v24_blueoo.png.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\drawable-v24\\blueoo.png"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\drawable_resize_push.xml.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\drawable\\resize_push.xml"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\drawable-v24_blueo.png.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\drawable-v24\\blueo.png"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\drawable_resize_call.xml.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\drawable\\resize_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\drawable_forwardd.png.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\drawable\\forwardd.png"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\drawable_resize_left.xml.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\drawable\\resize_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-5:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\전경표\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-7:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]
